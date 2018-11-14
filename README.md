@@ -4,7 +4,7 @@ to look and feel like the sleek, sample Angular.Material application (use link i
 
 To do this, you must:
 1. Convert the entire application to use Angular.Material buttons
-  a. you can read more about material buttons here: https://material.angular.io/components/button/overview
+  * you can read more about material buttons here: https://material.angular.io/components/button/overview
 2. Convert the html template on the app.component to leverage Angular.Material
   a. app.component will need to use material side-navs (you can read more about this on https://material.angular.io/components/sidenav/overview)
   b. app.component will need to use material toolbars (you can read more about this on https://material.angular.io/components/toolbar/overview)
